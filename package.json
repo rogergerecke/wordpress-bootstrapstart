@@ -1,11 +1,11 @@
 {
-  "name": "bootstrapstart",
+  "name": "wordpress-bootstrapstart",
   "version": "1.0.0",
   "description": "A Wordpress starter theme based on Bootstrap.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/git/eintragen.git"
+    "url": "git+https://github.com/rogergerecke/wordpress-bootstrapstart.git"
   },
   "keywords": [
     "wordpress",
@@ -17,9 +17,9 @@
   "author": "Roger Gerecke",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/git/eintragen/issues"
+    "url": "https://github.com/rogergerecke/wordpress-bootstrapstart/issues"
   },
-  "homepage": "https://github.com/git/eintragen#readme",
+  "homepage": "https://github.com/rogergerecke/wordpress-bootstrapstart#readme",
   "dependencies": {
 
   },
